@@ -1,0 +1,27 @@
+
+header h1{
+    color: blue;
+    text-align: center;
+
+}
+
+table.tabla1{
+    display: flex;
+    align-items: center;
+    border-color: black;
+    border: 2px solid;
+   
+}
+
+td{
+    display:flexbox;
+    margin: auto;
+    border: black 1px solid;
+    min-width: 7cm;
+    max-width: 9cm;
+}
+
+
+
+
+
