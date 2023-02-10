@@ -5,8 +5,12 @@
 } */
 
 body{
-
+    background: no-repeat;
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/691/170/464/fondos-de-pantalla-color-azul-abstract-wallpaper-preview.jpg);
+    background-size: cover;
+    back
 }
+
 
 header h1{
     color: rgb(38, 38, 97);
@@ -58,7 +62,7 @@ div.tabla1_elemento p{
     font-size: 20px;
     font-weight: bold;
     color: red;
-    background-color: aquamarine;
+    background-color: rgb(177, 250, 225);
     vertical-align: center;
 }
 
