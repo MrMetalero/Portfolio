@@ -9,6 +9,7 @@ body{
     background-image:url(https://wallpaperaccess.com/full/1542409.jpg);
     background-size: cover;
     background-position: 0cm 60px;
+    background-size: auto;
 }
 
 
@@ -33,7 +34,13 @@ h2.tablaheader{
     
     justify-content: center;
     text-align: center;
-
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.644);
+    background-size: 10cm;
+    width: fit-content;
+    justify-content: center;
+    margin: 0   auto;
+    
 }
 
 
